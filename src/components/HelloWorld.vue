@@ -37,6 +37,11 @@ export default Vue.extend({
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  computed: {
+    foo: function (): string {
+      return 4
+    }
   }
 })
 </script>

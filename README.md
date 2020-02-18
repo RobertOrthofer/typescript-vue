@@ -1,24 +1,19 @@
 # typescript-test
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Project setup:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    vue create typescript-vue
 
-### Lints and fixes files
-```
-npm run lint
-```
+Options:
+  - manual setup
+  - Selected Features:
+    - typescript
+    - Linter/Formatter
+  - class style component syntax: NO
+  - babel along typescript: NO
+  - linter: ESLint + standard config
+  - lint on save
+  - config in package.json
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
