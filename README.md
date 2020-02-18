@@ -27,4 +27,4 @@ When running [`npm run typecheck`](https://github.com/RobertOrthofer/typescript-
 
 ## Expected behaviour
 tsc should report an error similar to the one vetur detects
-![vetur-error](./Screenshot 2020-02-18 at 12.07.27.png)
+![vetur-error](./Screenshot%202020-02-18%20at%2012.07.27.png)
